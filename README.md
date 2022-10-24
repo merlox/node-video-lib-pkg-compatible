@@ -1,4 +1,6 @@
-# node-video-lib
+# node-video-lib-pkg-compatible
+
+This is the `pkg` compatible `node-video-lib` for those of you building executable node.js applications. Simply install it and run it as usual with `pkg .` and then executing the generated program.
 
 [![Build Status](https://github.com/gkozlenko/node-video-lib/actions/workflows/node.js.yml/badge.svg)](https://github.com/gkozlenko/node-video-lib/actions/workflows/node.js.yml)
 [![npm Version](https://img.shields.io/npm/v/node-video-lib.svg)](https://www.npmjs.com/package/node-video-lib)
